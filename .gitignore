@@ -1,0 +1,12 @@
+
+
+node_modules/
+amazon-user-data/
+test-results/
+playwright-report/
+
+.env
+.env.*
+
+.DS_Store
+Thumbs.db
